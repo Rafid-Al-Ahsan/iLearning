@@ -1,3 +1,4 @@
+// Program to verify HMAC using HMAC key and Computer move
 const crypto = require('crypto');
 
 // Retrieve arguments from the command line
